@@ -12,7 +12,7 @@ Exploratory analysis of the Titanic dataset: handling missing values (mode and K
 ├── titanic_analysis.py   # Full analysis script
 ├── titanic.csv           # Dataset
 ├── images/               # Generated charts
-└── README.md
+
 ```
 
 ---
